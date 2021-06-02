@@ -1,9 +1,7 @@
 # Chess-game-AI-in-CPP
-//I just wrote an AI for chess map situation in C++  and found it interesting to share it. I wrote it as a class and gave it some examples as functions and called them in main. You can change it however you want
-/*established from user : Lord Sky - Windows 10 Enterprise - using : Visual Studio 2019 Enterprise ( C++ Console App form ) by Sepehr Lankarani*/
-#include <iostream>
-#include <conio.h>
-using namespace std;
+#I just wrote an AI for chess map situation in C++  and found it interesting to share it. I wrote it as a class and gave it some examples as functions and called them in main. You can change it however you want|
+
+
 
 class chess
 {
